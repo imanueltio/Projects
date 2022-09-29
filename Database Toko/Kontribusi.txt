@@ -1,1 +1,0 @@
-Membuat database serta query yang sudah disesuaikan dengan soal yang tertera serta ikut membuat ERD (Entity Relationship Diagram).
