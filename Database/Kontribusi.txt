@@ -1,1 +1,0 @@
-Membuat database dan query yang ada untuk melihat data dengan kondisi tertentu dan ikut serta membahas ERD (Entity Relationship Diagram) yang dipakai
